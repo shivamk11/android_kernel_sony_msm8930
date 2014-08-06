@@ -41,7 +41,6 @@
 #include <linux/debug_locks.h>
 #include <linux/lockdep.h>
 #include <linux/idr.h>
-#include <linux/bug.h>
 #include <linux/moduleparam.h>
 
 #include "workqueue_sched.h"
