@@ -1,5 +1,5 @@
 #!/bin/bash
-TOOLCHAIN="/home/shivam/development/toolchains/linaro-4.9-generic/bin/arm-eabi"
+TOOLCHAIN="/home/shivam/development/toolchains/linaro-4.9/bin/arm-eabi"
 MODULES_DIR="/home/shivam/development/modules"
 ZIMAGE="/home/shivam/development/android_kernel_sony_msm8930_fresh/arch/arm/boot/zImage"
 KERNEL_DIR="/home/shivam/development/android_kernel_sony_msm8930_fresh"
